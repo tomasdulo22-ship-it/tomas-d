@@ -1,0 +1,11 @@
+{
+  "name": "tomas-y-paulina",
+  "version": "0.0.1",
+  "description": "trabajo-proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomas duarte paulina",
+  "license": "ISC"
+}
