@@ -4,8 +4,12 @@
   "description": "trabajo-proyecto",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node --watch app.js",
+"start": "node app.js"
   },
   "author": "tomas duarte paulina",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
